@@ -4,7 +4,6 @@ package at.technikum.wien.mse.swe.model;
  * @author MatthiasKreuzriegler
  */
 public class SecurityAccountOverview {
-
     private String accountNumber;
     private RiskCategory riskCategory;
     private DepotOwner depotOwner;

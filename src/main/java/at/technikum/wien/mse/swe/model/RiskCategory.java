@@ -14,7 +14,6 @@ public enum RiskCategory {
     MIDDLE("04"),
     HIGH("06"),
     SPECULATIVE("08");
-
     private final String code;
 
     RiskCategory(String code) {

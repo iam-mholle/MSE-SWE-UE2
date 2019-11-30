@@ -4,7 +4,7 @@ package at.technikum.wien.mse.swe.model;
  * @author MatthiasKreuzriegler
  */
 public class DepotOwner {
-
+    
     private String firstname;
     private String lastname;
 
